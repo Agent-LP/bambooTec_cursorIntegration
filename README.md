@@ -90,7 +90,7 @@ See `notes/` directory for project notes.
 - Integrated with backend API
 
 ### 6. Dependency Management
-**Prompt Used**: "Baja la version de MUI (por los esrres que salieron)"
+**Prompt Used**: "Baja la version de MUI (por los errores que salieron)"
 - Downgraded Material-UI (MUI) version to resolve compatibility issues
 - Updated package.json with correct dependencies
 - Fixed related styling issues
